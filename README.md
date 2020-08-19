@@ -1,2 +1,1 @@
-# wg
-primeiro teste
+Conteúdo aprendido durante o curso 
